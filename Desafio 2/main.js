@@ -21,4 +21,5 @@ const Scroll = ScrollReveal({
 
 ScrollReveal().reveal('.position-absolute', { delay: 200 })
 ScrollReveal().reveal('.title', { delay: 400 })
-ScrollReveal().reveal('.col', { delay: 500 })
+ScrollReveal().reveal('.row', { delay: 500 })
+ScrollReveal().reveal('.col', { delay: 800 })
