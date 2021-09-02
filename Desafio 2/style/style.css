@@ -17,6 +17,9 @@
 }
 
 /*Reset*/
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background: var(--bgSite);
