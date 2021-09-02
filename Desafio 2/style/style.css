@@ -64,8 +64,6 @@ body p {
 
 #home .logo,
 #home .logo-p {
-  margin-left: 25%;
-
   color: var(--white);
 }
 
@@ -99,7 +97,3 @@ body p {
     opacity: 0;
   }
 }
-
-/* media small*/
-
-@media (min-width: 1140px);
